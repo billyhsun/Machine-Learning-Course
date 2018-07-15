@@ -1,2 +1,4 @@
-# Machine-Learning-Course
-Udacity Introduction to Machine Learning online course
+ud120-projects
+==============
+
+Starter project code for students taking Udacity ud120
